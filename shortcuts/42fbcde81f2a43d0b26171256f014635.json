@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "deleted": false,
+    "modified": {
+      "timestamp": 1718791201475,
+      "deviceID": "2",
+      "userRecordName": "_a702d02db102341342355d5ae64b8e07"
+    },
+    "recordType": "SharedShortcut",
+    "recordName": "42FBCDE8-1F2A-43D0-B261-71256F014635",
+    "created": {
+      "timestamp": 1718791174867,
+      "deviceID": "B9990469-8314-4F35-B41B-8B0B6F2BE2B0",
+      "userRecordName": "_03600fd4201439dc2021a3ac1ec1168f"
+    },
+    "fields": {
+      "icon_color": {
+        "type": "NUMBER_INT64",
+        "value": 4282601983
+      },
+      "signedShortcut": {
+        "value": {
+          "downloadURL": "https://cvws.icloud-content.com/B/AUC1gdSRF0e8QSWlGS9fG1H9lvEH/${f}?o=AncZc_5Ye6KaszvCifLqahBEjGCIksKekvgzy5Qs7ND08Pb-rrAvoOZvq-Le96Z7Yw&v=1&x=3&a=CAogioixD3TRY1Y4GmmHTjuNPVxaZY8hSt2qusdhVh4_qq0SexDB5YHenzIYwcLd358yIgEAUgT9lvEHajDYihzrzx0L5GyMEFB5idVbZKg9umR99ATHviK7AfTtNHiQmV-L3U_tpUzDOqnO5xRyMOIv-NZ0sM4aD2Mr6ILKWtU94kOsrJfFAllozZovCSKmmJWluY75Y1ODOuho12c-yA&e=1726509179&fl=&r=d476518f-2ddc-421c-891d-c418c195ce4c-1&k=_&ckc=com.apple.shortcuts&ckz=_defaultZone&p=33&s=-PEKu2XrWDzliJUQIVCs7N6mM_Q",
+          "fileChecksum": "AUC1gdSRF0e8QSWlGS9fG1H9lvEH",
+          "size": 22014
+        },
+        "type": "ASSETID"
+      },
+      "icon_glyph": {
+        "type": "NUMBER_INT64",
+        "value": 59693
+      },
+      "signingStatus": {
+        "type": "STRING",
+        "value": "APPROVED"
+      },
+      "name": {
+        "value": "Download from Kick.com",
+        "type": "STRING"
+      },
+      "maliciousScanningContentVersion": {
+        "type": "NUMBER_INT64",
+        "value": 1
+      },
+      "icon": {
+        "value": {
+          "fileChecksum": "AfdSF7S+Gsk+835HHrdEy9del1je",
+          "size": 6811,
+          "downloadURL": "https://cvws.icloud-content.com/B/AfdSF7S-Gsk-835HHrdEy9del1je/${f}?o=AnWfw1oodMO_ZFCg_osTF8HscaiUxhrTvbG4bsyCD9zTXpqW6Hc_17oPYMxXk_tAPw&v=1&x=3&a=CAogZB7RzQy5VJbtbIOQVZv0O_u-F_oniO5o_hf2SAM-idkSexDC5YHenzIYwsLd358yIgEAUgRel1jeajAlaiqYXtf7fk354xB63u9bSLBT3Wx_BqcBYBneATkU2a10tNobVAt4pi-PPyZlTZpyMMbw9v5eosi8UkMMX6GOmKFUQvtRBLECPscCATdvADIS-BYSCuFZKT6IkiaUasDwUg&e=1726509179&fl=&r=d476518f-2ddc-421c-891d-c418c195ce4c-1&k=_&ckc=com.apple.shortcuts&ckz=_defaultZone&p=33&s=T4HpPtnIXXkcgwdRYfwrspGzeSc"
+        },
+        "type": "ASSETID"
+      },
+      "signingCertificateExpirationDate": {
+        "type": "TIMESTAMP",
+        "value": 1752918599000
+      },
+      "shortcut": {
+        "value": {
+          "fileChecksum": "AZKzkQYb5ht4RyicX0PBn7vsiPXz",
+          "size": 1331,
+          "downloadURL": "https://cvws.icloud-content.com/B/AZKzkQYb5ht4RyicX0PBn7vsiPXz/${f}?o=AnTao7H9oIwjvMLrXF1dATFRuYTM6huXbgdp9XOHijtuOoF3t-ClX6VpzuwHIBpNWQ&v=1&x=3&a=CAog-XEnp6PmjM-baS_zfXJiq3x5yIJbafGQcbXjiD-dGHESexDC5YHenzIYwsLd358yIgEAUgTsiPXzajB-435E7VzmhZh9ctPIYFkynCxCby6m6-zup3IEGGl-JJcH6yS7uHvo3vg75wfNirhyMLf747wclBBM1pu2lXoOGGPkomtBCbGZfnRSiFLVougfFcxxob6djUBLW7roWcY7rg&e=1726509179&fl=&r=d476518f-2ddc-421c-891d-c418c195ce4c-1&k=_&ckc=com.apple.shortcuts&ckz=_defaultZone&p=33&s=dK_tXjG0e6d0Sj1Fw2bVDLqA_RI"
+        },
+        "type": "ASSETID"
+      }
+    },
+    "recordChangeTag": "lxlnvydt",
+    "pluginFields": {}
+  },
+  "content": {
+    "WFWorkflowMinimumClientVersionString": "900",
+    "WFWorkflowMinimumClientVersion": 900,
+    "WFWorkflowIcon": {
+      "WFWorkflowIconStartColor": 4282601983,
+      "WFWorkflowIconGlyphNumber": 59693
+    },
+    "WFWorkflowClientVersion": "2605.0.5",
+    "WFWorkflowOutputContentItemClasses": [],
+    "WFWorkflowHasOutputFallback": false,
+    "WFWorkflowActions": [
+      {
+        "WFWorkflowActionIdentifier": "is.workflow.actions.gettext",
+        "WFWorkflowActionParameters": {
+          "UUID": "647112F5-ADBA-41AF-8C40-A7282013A24B",
+          "WFTextActionText": {
+            "Value": {
+              "string": "https://kick-video.download/?download=￼",
+              "attachmentsByRange": {
+                "{38, 1}": {
+                  "Type": "ExtensionInput"
+                }
+              }
+            },
+            "WFSerializationType": "WFTextTokenString"
+          }
+        }
+      },
+      {
+        "WFWorkflowActionIdentifier": "is.workflow.actions.setvariable",
+        "WFWorkflowActionParameters": {
+          "WFInput": {
+            "Value": {
+              "OutputUUID": "647112F5-ADBA-41AF-8C40-A7282013A24B",
+              "Type": "ActionOutput",
+              "OutputName": "Text"
+            },
+            "WFSerializationType": "WFTextTokenAttachment"
+          },
+          "WFVariableName": "downloadUrl"
+        }
+      },
+      {
+        "WFWorkflowActionIdentifier": "is.workflow.actions.openurl",
+        "WFWorkflowActionParameters": {
+          "WFInput": {
+            "Value": {
+              "VariableName": "downloadUrl",
+              "Type": "Variable"
+            },
+            "WFSerializationType": "WFTextTokenAttachment"
+          },
+          "UUID": "8F99B402-0962-4CFB-8402-B4FA3B55CD27"
+        }
+      }
+    ],
+    "WFWorkflowInputContentItemClasses": [
+      "WFURLContentItem"
+    ],
+    "WFWorkflowImportQuestions": [],
+    "WFQuickActionSurfaces": [],
+    "WFWorkflowTypes": [
+      "ActionExtension"
+    ],
+    "WFWorkflowHasShortcutInputVariables": true
+  }
+}
