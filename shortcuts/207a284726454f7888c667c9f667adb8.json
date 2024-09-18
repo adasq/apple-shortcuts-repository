@@ -1,0 +1,420 @@
+{
+  "meta": {
+    "recordChangeTag": "m181bk2r",
+    "recordName": "207A2847-2645-4F78-88C6-67C9F667ADB8",
+    "pluginFields": {},
+    "modified": {
+      "deviceID": "2",
+      "timestamp": 1726674356397,
+      "userRecordName": "_a702d02db102341342355d5ae64b8e07"
+    },
+    "fields": {
+      "icon_color": {
+        "value": 255,
+        "type": "NUMBER_INT64"
+      },
+      "signingStatus": {
+        "value": "APPROVED",
+        "type": "STRING"
+      },
+      "signedShortcut": {
+        "type": "ASSETID",
+        "value": {
+          "fileChecksum": "AeM9YRe6+mgWXIb3518WPBrF9lq8",
+          "size": 24395,
+          "downloadURL": "https://cvws.icloud-content.com/B/AeM9YRe6-mgWXIb3518WPBrF9lq8/${f}?o=AsNB3A0okfLvasZwDMZLWJpftulXO1QrLm8E_nXpvO1Ghh-Ugdh3hbFC8EoiHE7AEw&v=1&x=3&a=CAog0uhnKuCULoI3AvoqWDBiTrOg8sbN8fQ2fk2FpM2H6OUSexCukb-uoDIYru6asKAyIgEAUgTF9lq8ajBm-9NsKC2XkcN0PmgcQ3kVfyrPtAw4LHQzufTNZY1nFX5PfWpaqIxV0DIleFqinq1yMKvP0X4xBUYFHnIqM7v6_A3MMFocXzpIEpIafVNx_N3YJviIT9PHO11X4xu7f_4AFA&e=1726677956&fl=&r=e2f09211-7ea3-40b8-9f9a-0bb7397c76ab-1&k=_&ckc=com.apple.shortcuts&ckz=_defaultZone&p=33&s=IXZxCSAaOfpLqS8qDaGmwQ48NK4"
+        }
+      },
+      "signingCertificateExpirationDate": {
+        "type": "TIMESTAMP",
+        "value": 1760801754000
+      },
+      "icon_glyph": {
+        "type": "NUMBER_INT64",
+        "value": 61440
+      },
+      "shortcut": {
+        "value": {
+          "fileChecksum": "AcAd6db1CE6fpirZABUqkoQ2kHwZ",
+          "downloadURL": "https://cvws.icloud-content.com/B/AcAd6db1CE6fpirZABUqkoQ2kHwZ/${f}?o=Aof82PF91ygG2SUaJVQzP3_wdLIyCRjaf90i-Id6Iyw1H6N-q6V7fvxiO71jFE3oew&v=1&x=3&a=CAogDVwYBzOtGvxMYGq0of8lv7AVGrBZ_RnHR6GFHwCNTjQSexCvkb-uoDIYr-6asKAyIgEAUgQ2kHwZajAblUGhyy_SEpWYo7KLOgIQHJZJqW5QpPP8-f0eCQ6cZlSWZG7A2U-jV2EOybH2XedyMEm7lElP3Dm1BQ7ms0SnON2KsH0PiDtyXl9kjnkvMLTrbVvUSDxUOT2Nk-iO4ElxjQ&e=1726677956&fl=&r=e2f09211-7ea3-40b8-9f9a-0bb7397c76ab-1&k=_&ckc=com.apple.shortcuts&ckz=_defaultZone&p=33&s=VSRV9-OWmnQi1kvngN_I6gCokzY",
+          "size": 5052
+        },
+        "type": "ASSETID"
+      },
+      "maliciousScanningContentVersion": {
+        "value": 1,
+        "type": "NUMBER_INT64"
+      },
+      "icon": {
+        "type": "ASSETID",
+        "value": {
+          "downloadURL": "https://cvws.icloud-content.com/B/AVaISyBk3IFSeUrULKSUSR_kctU8/${f}?o=AmUsY1iKNKyiC4nBCcfo84QPQosKKGkV73nAq2zmdyBxpe-AYfJgVi4Oav7deb_Opw&v=1&x=3&a=CAogwzjceY0GJT9iqzPnzbHEuQjbfSlhM4Rct5JL_BzC6gkSexCvkb-uoDIYr-6asKAyIgEAUgTkctU8ajAYAdslbGljApPj0LK-4ryFuvl6R4iFlYXucE64IPr8N4kn2XjXcwowWDJ1FcXUd1VyMABg16v4DWJUhCRCeKFX-G9daNCGP-QJNG-gfVIZZ62ZWafRP2lapFIVbwXPfCkHmQ&e=1726677956&fl=&r=e2f09211-7ea3-40b8-9f9a-0bb7397c76ab-1&k=_&ckc=com.apple.shortcuts&ckz=_defaultZone&p=33&s=wZ8XGxADvGU3wobJvvGj42aojlU",
+          "fileChecksum": "AVaISyBk3IFSeUrULKSUSR/kctU8",
+          "size": 9287
+        }
+      },
+      "name": {
+        "type": "STRING",
+        "value": "Get location from here to three pre-determined points"
+      }
+    },
+    "created": {
+      "deviceID": "B9990469-8314-4F35-B41B-8B0B6F2BE2B0",
+      "timestamp": 1726674340743,
+      "userRecordName": "_03600fd4201439dc2021a3ac1ec1168f"
+    },
+    "deleted": false,
+    "recordType": "SharedShortcut"
+  },
+  "content": {
+    "WFWorkflowMinimumClientVersionString": "900",
+    "WFWorkflowMinimumClientVersion": 900,
+    "WFWorkflowIcon": {
+      "WFWorkflowIconStartColor": 255,
+      "WFWorkflowIconGlyphNumber": 61440
+    },
+    "WFWorkflowClientVersion": "2607.1",
+    "WFWorkflowActions": [
+      {
+        "WFWorkflowActionIdentifier": "is.workflow.actions.location",
+        "WFWorkflowActionParameters": {
+          "WFLocation": {
+            "placemark": {
+              "region": {
+                "center": {
+                  "longitude": -122.029969,
+                  "latitude": 37.33217187454698
+                },
+                "identifier": "<+37.33217187,-122.02996900> radius 288.83",
+                "radius": 288.8344037186825
+              },
+              "location": {
+                "verticalAccuracy": -1,
+                "speed": -1,
+                "longitude": -122.0296265,
+                "horizontalAccuracy": 0,
+                "course": -1,
+                "latitude": 37.3320275,
+                "timestamp": "2024-06-27T18:38:15.333Z",
+                "altitude": 0
+              },
+              "addressDictionary": {
+                "Street": "1 Infinite Loop",
+                "SubAdministrativeArea": "Santa Clara",
+                "State": "CA",
+                "SubThoroughfare": "1",
+                "ZIP": "95014",
+                "CountryCode": "US",
+                "Thoroughfare": "Infinite Loop",
+                "Country": "United States",
+                "Name": "Apple Inc. - Infinite Loop Campus",
+                "FormattedAddressLines": [
+                  "Apple Inc.",
+                  "1 Infinite Loop",
+                  "Cupertino, CA 95014",
+                  "United States"
+                ],
+                "City": "Cupertino"
+              }
+            }
+          },
+          "CustomOutputName": "Loc A",
+          "UUID": "68C34BC1-B2A0-452D-811A-25E3A3237A74"
+        }
+      },
+      {
+        "WFWorkflowActionIdentifier": "is.workflow.actions.location",
+        "WFWorkflowActionParameters": {
+          "WFLocation": {
+            "placemark": {
+              "region": {
+                "center": {
+                  "longitude": -122.47804574999999,
+                  "latitude": 37.81986313828217
+                },
+                "identifier": "<+37.81986314,-122.47804575> radius 1547.73",
+                "radius": 1547.7284931960585
+              },
+              "location": {
+                "verticalAccuracy": -1,
+                "speed": -1,
+                "longitude": -122.4785568,
+                "horizontalAccuracy": 0,
+                "course": -1,
+                "latitude": 37.8197245,
+                "timestamp": "2024-06-27T18:38:23.041Z",
+                "altitude": 0
+              },
+              "addressDictionary": {
+                "Street": "Golden Gate Bridge",
+                "SubAdministrativeArea": "San Francisco",
+                "State": "CA",
+                "City": "San Francisco",
+                "CountryCode": "US",
+                "Thoroughfare": "Golden Gate Bridge",
+                "Name": "Golden Gate Bridge",
+                "Ocean": "San Francisco Bay",
+                "Country": "United States",
+                "FormattedAddressLines": [
+                  "Golden Gate Bridge",
+                  "San Francisco CA",
+                  "United States"
+                ]
+              }
+            }
+          },
+          "CustomOutputName": "Loc B",
+          "UUID": "7556AAE6-C4D8-4D73-9016-7E5CC386F294"
+        }
+      },
+      {
+        "WFWorkflowActionIdentifier": "is.workflow.actions.location",
+        "WFWorkflowActionParameters": {
+          "WFLocation": {
+            "placemark": {
+              "region": {
+                "center": {
+                  "longitude": -118.4026241,
+                  "latitude": 33.943407603424035
+                },
+                "identifier": "<+33.94340760,-118.40262410> radius 925.03",
+                "radius": 925.0334894679186
+              },
+              "location": {
+                "verticalAccuracy": -1,
+                "speed": -1,
+                "longitude": -118.4011055,
+                "horizontalAccuracy": 0,
+                "course": -1,
+                "latitude": 33.9462237,
+                "timestamp": "2024-06-27T18:39:51.016Z",
+                "altitude": 0
+              },
+              "addressDictionary": {
+                "SubAdministrativeArea": "Los Angeles County",
+                "Street": "1 World Way",
+                "SubLocality": "Westchester",
+                "State": "CA",
+                "ZIP": "90045",
+                "CountryCode": "US",
+                "Name": "Los Angeles International Airport",
+                "Thoroughfare": "World Way",
+                "SubThoroughfare": "1",
+                "FormattedAddressLines": [
+                  "1 World Way",
+                  "Los Angeles, CA  90045",
+                  "United States"
+                ],
+                "Country": "United States",
+                "City": "Los Angeles"
+              }
+            }
+          },
+          "CustomOutputName": "Loc C",
+          "UUID": "CC41AECE-519D-4774-B539-F455C1B34A95"
+        }
+      },
+      {
+        "WFWorkflowActionIdentifier": "is.workflow.actions.list",
+        "WFWorkflowActionParameters": {
+          "WFItems": [
+            {
+              "WFItemType": 0,
+              "WFValue": {
+                "Value": {
+                  "string": "￼",
+                  "attachmentsByRange": {
+                    "{0, 1}": {
+                      "OutputUUID": "68C34BC1-B2A0-452D-811A-25E3A3237A74",
+                      "Type": "ActionOutput",
+                      "OutputName": "Loc A"
+                    }
+                  }
+                },
+                "WFSerializationType": "WFTextTokenString"
+              }
+            },
+            {
+              "WFItemType": 0,
+              "WFValue": {
+                "Value": {
+                  "string": "￼",
+                  "attachmentsByRange": {
+                    "{0, 1}": {
+                      "OutputUUID": "7556AAE6-C4D8-4D73-9016-7E5CC386F294",
+                      "Type": "ActionOutput",
+                      "OutputName": "Loc B"
+                    }
+                  }
+                },
+                "WFSerializationType": "WFTextTokenString"
+              }
+            },
+            {
+              "WFItemType": 0,
+              "WFValue": {
+                "Value": {
+                  "string": "￼",
+                  "attachmentsByRange": {
+                    "{0, 1}": {
+                      "OutputUUID": "CC41AECE-519D-4774-B539-F455C1B34A95",
+                      "Type": "ActionOutput",
+                      "OutputName": "Loc C"
+                    }
+                  }
+                },
+                "WFSerializationType": "WFTextTokenString"
+              }
+            }
+          ],
+          "UUID": "109E3E87-83C6-49F5-AC07-4994C184C8DC"
+        }
+      },
+      {
+        "WFWorkflowActionIdentifier": "is.workflow.actions.getcurrentlocation",
+        "WFWorkflowActionParameters": {
+          "Accuracy": "NearestTenMeters",
+          "UUID": "736BA317-F06F-49FA-AEBF-C66CB6919BDC"
+        }
+      },
+      {
+        "WFWorkflowActionIdentifier": "is.workflow.actions.repeat.each",
+        "WFWorkflowActionParameters": {
+          "WFInput": {
+            "Value": {
+              "OutputUUID": "109E3E87-83C6-49F5-AC07-4994C184C8DC",
+              "Type": "ActionOutput",
+              "OutputName": "List"
+            },
+            "WFSerializationType": "WFTextTokenAttachment"
+          },
+          "GroupingIdentifier": "F394380B-3322-4F3F-9548-75BA86B6665F",
+          "WFControlFlowMode": 0
+        }
+      },
+      {
+        "WFWorkflowActionIdentifier": "is.workflow.actions.getdistance",
+        "WFWorkflowActionParameters": {
+          "WFGetDirectionsCustomLocation": {
+            "Value": {
+              "OutputUUID": "736BA317-F06F-49FA-AEBF-C66CB6919BDC",
+              "Type": "ActionOutput",
+              "OutputName": "Current Location"
+            },
+            "WFSerializationType": "WFTextTokenAttachment"
+          },
+          "WFGetDistanceDestination": {
+            "Value": {
+              "VariableName": "Repeat Item",
+              "Type": "Variable"
+            },
+            "WFSerializationType": "WFTextTokenAttachment"
+          },
+          "UUID": "D3A0DB1C-A5B9-4699-B8C4-5BED975926F9"
+        }
+      },
+      {
+        "WFWorkflowActionIdentifier": "is.workflow.actions.round",
+        "WFWorkflowActionParameters": {
+          "WFInput": {
+            "Value": {
+              "OutputUUID": "D3A0DB1C-A5B9-4699-B8C4-5BED975926F9",
+              "Type": "ActionOutput",
+              "OutputName": "Distance"
+            },
+            "WFSerializationType": "WFTextTokenAttachment"
+          },
+          "WFRoundTo": "Hundredths",
+          "UUID": "BEA81032-6F03-4165-8F77-2617BD04A80A"
+        }
+      },
+      {
+        "WFWorkflowActionIdentifier": "is.workflow.actions.gettext",
+        "WFWorkflowActionParameters": {
+          "WFTextActionText": {
+            "Value": {
+              "string": "￼ miles to location ￼",
+              "attachmentsByRange": {
+                "{20, 1}": {
+                  "VariableName": "Repeat Index",
+                  "Type": "Variable"
+                },
+                "{0, 1}": {
+                  "OutputUUID": "BEA81032-6F03-4165-8F77-2617BD04A80A",
+                  "Type": "ActionOutput",
+                  "OutputName": "Rounded Number"
+                }
+              }
+            },
+            "WFSerializationType": "WFTextTokenString"
+          },
+          "UUID": "330D785D-B9E6-4A3F-A97B-5E8DD8738FBD"
+        }
+      },
+      {
+        "WFWorkflowActionIdentifier": "is.workflow.actions.repeat.each",
+        "WFWorkflowActionParameters": {
+          "WFControlFlowMode": 2,
+          "GroupingIdentifier": "F394380B-3322-4F3F-9548-75BA86B6665F",
+          "UUID": "AA20CA57-3B78-4E80-BA51-65BACBFD9B94"
+        }
+      },
+      {
+        "WFWorkflowActionIdentifier": "is.workflow.actions.text.combine",
+        "WFWorkflowActionParameters": {
+          "text": {
+            "Value": {
+              "OutputUUID": "AA20CA57-3B78-4E80-BA51-65BACBFD9B94",
+              "Type": "ActionOutput",
+              "OutputName": "Repeat Results"
+            },
+            "WFSerializationType": "WFTextTokenAttachment"
+          },
+          "UUID": "F4FA27A5-0076-4BC2-BD8A-A97A3FCC1056"
+        }
+      },
+      {
+        "WFWorkflowActionIdentifier": "is.workflow.actions.previewdocument",
+        "WFWorkflowActionParameters": {
+          "WFInput": {
+            "Value": {
+              "OutputUUID": "F4FA27A5-0076-4BC2-BD8A-A97A3FCC1056",
+              "Type": "ActionOutput",
+              "OutputName": "Combined Text"
+            },
+            "WFSerializationType": "WFTextTokenAttachment"
+          }
+        }
+      }
+    ],
+    "WFWorkflowHasOutputFallback": false,
+    "WFWorkflowOutputContentItemClasses": [],
+    "WFWorkflowInputContentItemClasses": [
+      "WFAppContentItem",
+      "WFAppStoreAppContentItem",
+      "WFArticleContentItem",
+      "WFContactContentItem",
+      "WFDateContentItem",
+      "WFEmailAddressContentItem",
+      "WFFolderContentItem",
+      "WFGenericFileContentItem",
+      "WFImageContentItem",
+      "WFiTunesProductContentItem",
+      "WFLocationContentItem",
+      "WFDCMapsLinkContentItem",
+      "WFAVAssetContentItem",
+      "WFPDFContentItem",
+      "WFPhoneNumberContentItem",
+      "WFRichTextContentItem",
+      "WFSafariWebPageContentItem",
+      "WFStringContentItem",
+      "WFURLContentItem"
+    ],
+    "WFWorkflowImportQuestions": [],
+    "WFWorkflowTypes": [
+      "Watch"
+    ],
+    "WFQuickActionSurfaces": [],
+    "WFWorkflowHasShortcutInputVariables": false
+  }
+}
